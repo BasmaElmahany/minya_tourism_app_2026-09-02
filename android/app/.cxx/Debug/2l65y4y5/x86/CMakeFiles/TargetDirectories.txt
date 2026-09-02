@@ -1,0 +1,2 @@
+E:/tourismApplication/minya_tourism_app_FIXED_FINAL_2/android/app/.cxx/Debug/2l65y4y5/x86/CMakeFiles/edit_cache.dir
+E:/tourismApplication/minya_tourism_app_FIXED_FINAL_2/android/app/.cxx/Debug/2l65y4y5/x86/CMakeFiles/rebuild_cache.dir

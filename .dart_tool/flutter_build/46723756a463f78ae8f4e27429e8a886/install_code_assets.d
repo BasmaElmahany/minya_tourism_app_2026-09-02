@@ -1,0 +1,1 @@
+ E:\\tourismApplication\\minya_tourism_app_FIXED_FINAL_2\\.dart_tool\\flutter_build\\46723756a463f78ae8f4e27429e8a886\\native_assets.json: 
